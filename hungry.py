@@ -5,4 +5,4 @@ if hungry==="yes":
     print("eat burger")
 else
     print("do homework")
-    print("more homeworks")
+    print("more homework to do")
